@@ -16,7 +16,7 @@ Tout d'abord, clonez le projet en utilisant Git ou téléchargez-le sous forme d
 
 -   Créez une base de données nommée `eifi`.
 -   Importez les données en utilisant le fichier `eifi.sql`.
-- 
+
 ## Étape 3: Installation du pilote JDBC
 
 -   Copiez le fichier `mysql-connector-java-8.0.26.jar` situé dans le dossier `driver` du projet.

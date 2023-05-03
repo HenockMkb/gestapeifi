@@ -21,7 +21,7 @@ Tout d'abord, clonez le projet en utilisant Git ou téléchargez-le sous forme d
 
 -   Copiez le fichier `mysql-connector-java-8.0.26.jar` situé dans le dossier `driver` du projet.
 -   Collez le fichier dans le dossier des bibliothèques de votre IDE.
-- Tester la connexion avec la base de donnée.
+- Testez la connexion avec la base de donnée.
 
 ## Étape 4: Importation du projet dans l'IDE
 
@@ -29,7 +29,7 @@ Tout d'abord, clonez le projet en utilisant Git ou téléchargez-le sous forme d
 -   Sélectionnez le dossier du projet que vous avez cloné ou téléchargé à l'étape 1.
 ## Étape 5: Exécution du projet
 
--   Exécutez le fichier `Main.java` situé dans le dossier `src`.
+-   Exécutez le fichier `Accueil.java` situé dans le dossier `src`.
 -   Le projet devrait maintenant s'exécuter correctement.
 
 # Conclusion
